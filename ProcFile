@@ -1,1 +1,1 @@
-web: gunicorn apiVoiture:app --log-file -
+web: gunicorn apiVoiture:app 
